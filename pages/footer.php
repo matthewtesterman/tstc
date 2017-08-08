@@ -1,0 +1,1 @@
+<footer><div class="text-center">Copyright &copy; <php? echo date('Y')  ?> TSTC. </div></footer>
